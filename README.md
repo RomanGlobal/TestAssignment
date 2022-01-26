@@ -1,4 +1,2 @@
-ssss
-f
-f
-k
+{FILE_DATA|
+ahah
